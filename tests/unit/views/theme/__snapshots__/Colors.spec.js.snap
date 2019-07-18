@@ -16,7 +16,7 @@ exports[`Colors.vue renders correctly 1`] = `
           class="icon-drop"
         />
          Theme colors
-    
+
       </div>
     </header>
     <div
@@ -24,7 +24,7 @@ exports[`Colors.vue renders correctly 1`] = `
     >
       <!---->
       <!---->
-       
+
       <div
         class="card-body"
       >
@@ -41,11 +41,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-primary"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Primary Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -56,21 +56,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -80,7 +80,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -89,11 +89,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-secondary"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Secondary Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -104,21 +104,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -128,7 +128,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -137,11 +137,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-success"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Success Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -152,21 +152,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -176,7 +176,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -185,11 +185,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-danger"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Danger Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -200,21 +200,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -224,7 +224,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -233,11 +233,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-warning"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Warning Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -248,21 +248,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -272,7 +272,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -281,11 +281,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-info"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Info Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -296,21 +296,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -320,7 +320,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -329,11 +329,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-light"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Light Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -344,21 +344,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -368,7 +368,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -377,11 +377,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-dark"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Dark Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -392,21 +392,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -422,7 +422,7 @@ exports[`Colors.vue renders correctly 1`] = `
     <!---->
     <!---->
   </div>
-   
+
   <div
     class="card"
   >
@@ -435,7 +435,7 @@ exports[`Colors.vue renders correctly 1`] = `
           class="icon-drop"
         />
          Grays
-    
+
       </div>
     </header>
     <div
@@ -443,7 +443,7 @@ exports[`Colors.vue renders correctly 1`] = `
     >
       <!---->
       <!---->
-       
+
       <div
         class="card-body"
       >
@@ -460,11 +460,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-100"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 100 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -475,21 +475,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -499,7 +499,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -508,11 +508,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-200"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 200 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -523,21 +523,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -547,7 +547,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -556,11 +556,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-300"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 300 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -571,21 +571,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -595,7 +595,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -604,11 +604,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-400"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 400 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -619,21 +619,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -643,7 +643,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -652,11 +652,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-500"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 500 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -667,21 +667,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -691,7 +691,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -700,11 +700,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-600"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 600 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -715,21 +715,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -739,7 +739,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -748,11 +748,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-700"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 700 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -763,21 +763,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -787,7 +787,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -796,11 +796,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-800"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 800 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -811,21 +811,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -835,7 +835,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -844,11 +844,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-gray-900"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand 900 Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -859,21 +859,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -889,7 +889,7 @@ exports[`Colors.vue renders correctly 1`] = `
     <!---->
     <!---->
   </div>
-   
+
   <div
     class="card"
   >
@@ -902,7 +902,7 @@ exports[`Colors.vue renders correctly 1`] = `
           class="icon-drop"
         />
          Additional colors
-    
+
       </div>
     </header>
     <div
@@ -910,7 +910,7 @@ exports[`Colors.vue renders correctly 1`] = `
     >
       <!---->
       <!---->
-       
+
       <div
         class="card-body"
       >
@@ -927,11 +927,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-blue"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Blue Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -942,21 +942,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -966,7 +966,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -975,11 +975,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-indigo"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Indigo Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -990,21 +990,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -1014,7 +1014,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -1023,11 +1023,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-purple"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Purple Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -1038,21 +1038,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -1062,7 +1062,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -1071,11 +1071,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-pink"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Pink Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -1086,21 +1086,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -1110,7 +1110,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -1119,11 +1119,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-red"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Red Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -1134,21 +1134,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -1158,7 +1158,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -1167,11 +1167,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-orange"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Orange Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -1182,21 +1182,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -1206,7 +1206,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -1215,11 +1215,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-yellow"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Yellow Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -1230,21 +1230,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -1254,7 +1254,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -1263,11 +1263,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-green"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Green Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -1278,21 +1278,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -1302,7 +1302,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -1311,11 +1311,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-teal"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Teal Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -1326,21 +1326,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
@@ -1350,7 +1350,7 @@ exports[`Colors.vue renders correctly 1`] = `
               </tbody>
             </table>
           </div>
-           
+
           <div
             class="mb-4 col-sm-6 col-md-4 col-xl-2"
             xs="12"
@@ -1359,11 +1359,11 @@ exports[`Colors.vue renders correctly 1`] = `
               class="theme-color w-75 rounded mb-3 bg-cyan"
               style="padding-top: 75%;"
             />
-             
+
             <h6>
               Brand Cyan Color
             </h6>
-             
+
             <table
               class="w-100"
             >
@@ -1374,21 +1374,21 @@ exports[`Colors.vue renders correctly 1`] = `
                   >
                     HEX:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
                     #ffffff
                   </td>
                 </tr>
-                 
+
                 <tr>
                   <td
                     class="text-muted"
                   >
                     RGB:
                   </td>
-                   
+
                   <td
                     class="font-weight-bold"
                   >
